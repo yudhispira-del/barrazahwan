@@ -3,7 +3,7 @@ export default function SectionHero() {
     <section
       id="beranda"
       className="h-screen bg-cover bg-center relative"
-      style={{ backgroundImage: "url('/src/assets/gedung.jfif')" }}
+      style={{ backgroundImage: "url('/barrazahwan/gedung.jfif')" }}
     >
       <div className="absolute inset-0 bg-black/60"></div>
 
