@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(), // <-- Tambahkan ke sini
   ],
+  base: '/barrazahwan/'
 })
