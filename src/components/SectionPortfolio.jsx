@@ -11,9 +11,9 @@ export default function SectionPortfolio() {
     {
       title: "Project 1",
       images: [
-        "/src/assets/lay1.jfif",
-        "/src/assets/lay1.jfif",
-        "/src/assets/lay1.jfif",
+        "/barrazahwan/lay1.jfif",
+        "/barrazahwan/lay1.jfif",
+        "/barrazahwan/lay1.jfif",
       ],
     },
     {
